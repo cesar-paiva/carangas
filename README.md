@@ -2,13 +2,15 @@
 
 <img src="https://github.com/cesar-paiva/carangas/blob/master/carangas.gif?raw=true" height="600">
 
+### Description
+
 Carangas is an iOS app that uses webview to display the images of the selected car and lists the brands consuming an API.
 
 You can also:
-    * list the cars
-    * register a new car
-    * edit a registered car
-    
+* List the registered cars
+* Add cars by tapping the "+" button
+* Edit a registered car
+
 ## Requirements
 - Xcode 10.2.1
 - iOS 11
