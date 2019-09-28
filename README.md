@@ -1,6 +1,6 @@
 # Carangas
 
-![Alt Text](https://github.com/cesar-paiva/carangas/blob/master/carangas.gif?raw=true)
+<img src="https://github.com/cesar-paiva/carangas/blob/master/carangas.gif?raw=true" height="600">
 
 Carangas is an iOS app that uses webview to display the images of the selected car and lists the brands consuming an API.
 
@@ -22,6 +22,12 @@ Just download source code and unzip the downloaded folder and open project in Xc
   ```
 
 #### Screenshots
-![Alt text](https://github.com/cesar-paiva/carangas/blob/master/screen1.png?raw=true)
-![Alt text](https://github.com/cesar-paiva/carangas/blob/master/screen2.png?raw=true)
-![Alt text](https://github.com/cesar-paiva/carangas/blob/master/screen3.png?raw=true)
+<table align="center" border="0">
+
+<tr>
+<td> <img src="https://github.com/cesar-paiva/carangas/blob/master/screen1.png?raw=true" height="500"> </td>
+<td> <img src="https://github.com/cesar-paiva/carangas/blob/master/screen2.png?raw=true" height="500"> </td>
+<td> <img src="https://github.com/cesar-paiva/carangas/blob/master/screen3.png?raw=true" height="500"> </td>
+</tr>
+
+</table>
